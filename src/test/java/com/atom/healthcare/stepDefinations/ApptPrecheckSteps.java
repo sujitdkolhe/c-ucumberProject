@@ -22,6 +22,7 @@ public class ApptPrecheckSteps extends BaseTest {
 	public void user_lauch_atom_healthcare_url() throws IOException {
 		propertyData = new PropertyFileLoader();
 		//loginPage = new HealthcareLogin(Constants.driver, "http://www.google.com");
+		//Background: Login to atom healthcare portal
 		loginPage = new HealthcareLogin(Constants.driver, propertyData.getProperty("url"));
 	}
 	
