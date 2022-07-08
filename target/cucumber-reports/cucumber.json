@@ -1,0 +1,105 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Login to atom healthcare portal",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 14079078300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user lauch atom healthcare url",
+            "match": {
+              "location": "com.atom.healthcare.stepDefinations.ApptPrecheckSteps.user_lauch_atom_healthcare_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter username and password",
+            "match": {
+              "location": "com.atom.healthcare.stepDefinations.ApptPrecheckSteps.user_enter_username_and_password()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-08T02:33:57.273Z",
+        "before": [
+          {
+            "result": {
+              "duration": 6303085800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.atom.healthcare.Hooks.Hooks.beforeSuite(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Verify",
+        "description": "",
+        "id": "test-fuctionality-of-atom-healthcare-portal;verify",
+        "after": [
+          {
+            "result": {
+              "duration": 1117490400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.atom.healthcare.Hooks.Hooks.postTestCase(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2001300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "schedule an appointments within one month",
+            "match": {
+              "location": "com.atom.healthcare.stepDefinations.ApptPrecheckSteps.schedule_an_appointments_within_one_month()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Test fuctionality of atom healthcare portal",
+    "description": "",
+    "id": "test-fuctionality-of-atom-healthcare-portal",
+    "keyword": "Feature",
+    "uri": "file:src/main/java/com/atom/healthcare/Features/HealthCare.feature",
+    "tags": [
+      {
+        "name": "@Regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

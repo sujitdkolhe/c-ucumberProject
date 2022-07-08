@@ -1,0 +1,56 @@
+[
+  {
+    "source": "user lauch atom healthcare url",
+    "steps": [
+      {
+        "name": "user lauch atom healthcare url",
+        "aggregatedDurations": {
+          "median": 14.0790783,
+          "average": 14.0790783
+        },
+        "durations": [
+          {
+            "duration": 14.0790783,
+            "location": "file:///J:/AtomProject/atom-healthcare/./src/main/java/com/atom/healthcare/Features/HealthCare.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user enter username and password",
+    "steps": [
+      {
+        "name": "user enter username and password",
+        "aggregatedDurations": {
+          "median": 0.002,
+          "average": 0.002
+        },
+        "durations": [
+          {
+            "duration": 0.002,
+            "location": "file:///J:/AtomProject/atom-healthcare/./src/main/java/com/atom/healthcare/Features/HealthCare.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "schedule an appointments within one month",
+    "steps": [
+      {
+        "name": "schedule an appointments within one month",
+        "aggregatedDurations": {
+          "median": 0.0020013,
+          "average": 0.0020013
+        },
+        "durations": [
+          {
+            "duration": 0.0020013,
+            "location": "file:///J:/AtomProject/atom-healthcare/./src/main/java/com/atom/healthcare/Features/HealthCare.feature:9"
+          }
+        ]
+      }
+    ]
+  }
+]

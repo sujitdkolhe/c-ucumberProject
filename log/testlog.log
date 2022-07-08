@@ -1,0 +1,60 @@
+2022-07-06 11:27:27,524 - com.atom.healthcare.util.Log4jUtil -INFO -<pre>
+testRoot: J:\AtomProject\atom-healthcare
+testConfigFile: testConfig.properties
+client os.type: windows
+clear.browser.cache: true
+capture.screenshot: true
+isProxyEnabled: false
+logger.level: null
+</pre>
+2022-07-06 11:27:27,524 [main] INFO com.atom.healthcare.util.Log4jUtil - <pre>
+testRoot: J:\AtomProject\atom-healthcare
+testConfigFile: testConfig.properties
+client os.type: windows
+clear.browser.cache: true
+capture.screenshot: true
+isProxyEnabled: false
+logger.level: null
+</pre>
+2022-07-06 11:27:32,158 - com.atom.healthcare.util.Log4jUtil -INFO -Browser type chrome
+2022-07-06 11:27:32,158 [main] INFO com.atom.healthcare.util.Log4jUtil - Browser type chrome
+2022-07-06 11:27:32,160 - com.atom.healthcare.util.Log4jUtil -INFO -Browser type firefox
+2022-07-06 11:27:32,160 [main] INFO com.atom.healthcare.util.Log4jUtil - Browser type firefox
+2022-07-06 11:27:32,225 - com.atom.healthcare.util.Log4jUtil -INFO -Test case: Verify
+2022-07-06 11:27:32,225 [main] INFO com.atom.healthcare.util.Log4jUtil - Test case: Verify
+2022-07-06 11:27:32,226 - com.atom.healthcare.util.Log4jUtil -INFO -Execution Environment: DEV
+2022-07-06 11:27:32,226 [main] INFO com.atom.healthcare.util.Log4jUtil - Execution Environment: DEV
+2022-07-06 11:27:32,227 - com.atom.healthcare.util.Log4jUtil -INFO -Execution Browser: chrome
+2022-07-06 11:27:32,227 [main] INFO com.atom.healthcare.util.Log4jUtil - Execution Browser: chrome
+2022-07-06 11:27:32,227 - com.atom.healthcare.util.Log4jUtil -INFO -Resetting step counter
+2022-07-06 11:27:32,227 [main] INFO com.atom.healthcare.util.Log4jUtil - Resetting step counter
+2022-07-06 11:29:49,967 - com.atom.healthcare.util.Log4jUtil -INFO -<pre>
+testRoot: J:\AtomProject\atom-healthcare
+testConfigFile: testConfig.properties
+client os.type: windows
+clear.browser.cache: true
+capture.screenshot: true
+isProxyEnabled: false
+logger.level: null
+</pre>
+2022-07-06 11:29:49,967 [main] INFO com.atom.healthcare.util.Log4jUtil - <pre>
+testRoot: J:\AtomProject\atom-healthcare
+testConfigFile: testConfig.properties
+client os.type: windows
+clear.browser.cache: true
+capture.screenshot: true
+isProxyEnabled: false
+logger.level: null
+</pre>
+2022-07-06 11:29:53,699 - com.atom.healthcare.util.Log4jUtil -INFO -Browser type chrome
+2022-07-06 11:29:53,699 [main] INFO com.atom.healthcare.util.Log4jUtil - Browser type chrome
+2022-07-06 11:29:53,700 - com.atom.healthcare.util.Log4jUtil -INFO -Browser type firefox
+2022-07-06 11:29:53,700 [main] INFO com.atom.healthcare.util.Log4jUtil - Browser type firefox
+2022-07-06 11:29:53,768 - com.atom.healthcare.util.Log4jUtil -INFO -Test case: Verify
+2022-07-06 11:29:53,768 [main] INFO com.atom.healthcare.util.Log4jUtil - Test case: Verify
+2022-07-06 11:29:53,769 - com.atom.healthcare.util.Log4jUtil -INFO -Execution Environment: DEV
+2022-07-06 11:29:53,769 [main] INFO com.atom.healthcare.util.Log4jUtil - Execution Environment: DEV
+2022-07-06 11:29:53,770 - com.atom.healthcare.util.Log4jUtil -INFO -Execution Browser: chrome
+2022-07-06 11:29:53,770 [main] INFO com.atom.healthcare.util.Log4jUtil - Execution Browser: chrome
+2022-07-06 11:29:53,770 - com.atom.healthcare.util.Log4jUtil -INFO -Resetting step counter
+2022-07-06 11:29:53,770 [main] INFO com.atom.healthcare.util.Log4jUtil - Resetting step counter

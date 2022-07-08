@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.218">
+<testcase classname="Test fuctionality of atom healthcare portal" name="Verify" time="21.771">
+<system-out><![CDATA[Given user lauch atom healthcare url........................................passed
+When user enter username and password.......................................passed
+Then schedule an appointments within one month..............................passed
+]]></system-out>
+</testcase>
+</testsuite>

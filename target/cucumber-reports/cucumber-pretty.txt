@@ -1,0 +1,6 @@
+
+@Regression
+Scenario: Verify                                 # src/main/java/com/atom/healthcare/Features/HealthCare.feature:8
+  Given user lauch atom healthcare url           # com.atom.healthcare.stepDefinations.ApptPrecheckSteps.user_lauch_atom_healthcare_url()
+  When user enter username and password          # com.atom.healthcare.stepDefinations.ApptPrecheckSteps.user_enter_username_and_password()
+  Then schedule an appointments within one month # com.atom.healthcare.stepDefinations.ApptPrecheckSteps.schedule_an_appointments_within_one_month()
