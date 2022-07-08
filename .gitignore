@@ -1,22 +1,6 @@
-target/
-
-*.pydevproject
-.metadata
-.gradle
+.git/
+.setting/
 bin/
-tmp/
-*.tmp
-*.txt
-*.bak
-*.swp
-*~.nib
-local.properties
-.settings/
-.loadpath
+log/
 target/
-*.keystore
-response.xml
-
-# Eclipse specific
-.project
-.classpath
+*.txt
