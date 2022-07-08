@@ -1,9 +1,22 @@
-.settings/*
-bin/*
-log/*
-target/*
-test-output/
-.classpath
-.project
-*.txt
+target/
 
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.txt
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+target/
+*.keystore
+response.xml
+
+# Eclipse specific
+.project
+.classpath
