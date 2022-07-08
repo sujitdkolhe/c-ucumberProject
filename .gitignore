@@ -1,0 +1,13 @@
+target/
+
+.settings/
+bin/
+log/
+target/
+test-output/
+.classpath
+.project
+application
+
+
+
